@@ -1,0 +1,13 @@
+C:\Users\Public\MyWork\Final Assignment\ProjectManager-master\ProjectManager.Business\bin\Debug\ProjectManager.Business.dll.config
+C:\Users\Public\MyWork\Final Assignment\ProjectManager-master\ProjectManager.Business\bin\Debug\ProjectManager.Business.dll
+C:\Users\Public\MyWork\Final Assignment\ProjectManager-master\ProjectManager.Business\bin\Debug\ProjectManager.Business.pdb
+C:\Users\Public\MyWork\Final Assignment\ProjectManager-master\ProjectManager.Business\bin\Debug\EntityFramework.dll
+C:\Users\Public\MyWork\Final Assignment\ProjectManager-master\ProjectManager.Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Public\MyWork\Final Assignment\ProjectManager-master\ProjectManager.Business\bin\Debug\ProjectManager.Persistence.dll
+C:\Users\Public\MyWork\Final Assignment\ProjectManager-master\ProjectManager.Business\bin\Debug\ProjectManager.Persistence.pdb
+C:\Users\Public\MyWork\Final Assignment\ProjectManager-master\ProjectManager.Business\bin\Debug\ProjectManager.Persistence.dll.config
+C:\Users\Public\MyWork\Final Assignment\ProjectManager-master\ProjectManager.Business\bin\Debug\EntityFramework.xml
+C:\Users\Public\MyWork\Final Assignment\ProjectManager-master\ProjectManager.Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Public\MyWork\Final Assignment\ProjectManager-master\ProjectManager.Business\obj\Debug\ProjectManager.Business.csprojResolveAssemblyReference.cache
+C:\Users\Public\MyWork\Final Assignment\ProjectManager-master\ProjectManager.Business\obj\Debug\ProjectManager.Business.dll
+C:\Users\Public\MyWork\Final Assignment\ProjectManager-master\ProjectManager.Business\obj\Debug\ProjectManager.Business.pdb

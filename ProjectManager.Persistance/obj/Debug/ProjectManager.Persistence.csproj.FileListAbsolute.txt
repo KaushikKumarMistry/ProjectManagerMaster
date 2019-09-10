@@ -1,0 +1,10 @@
+C:\Users\Public\MyWork\Final Assignment\ProjectManager-master\ProjectManager.Persistance\bin\Debug\ProjectManager.Persistence.dll.config
+C:\Users\Public\MyWork\Final Assignment\ProjectManager-master\ProjectManager.Persistance\bin\Debug\ProjectManager.Persistence.dll
+C:\Users\Public\MyWork\Final Assignment\ProjectManager-master\ProjectManager.Persistance\bin\Debug\ProjectManager.Persistence.pdb
+C:\Users\Public\MyWork\Final Assignment\ProjectManager-master\ProjectManager.Persistance\bin\Debug\EntityFramework.dll
+C:\Users\Public\MyWork\Final Assignment\ProjectManager-master\ProjectManager.Persistance\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Public\MyWork\Final Assignment\ProjectManager-master\ProjectManager.Persistance\bin\Debug\EntityFramework.xml
+C:\Users\Public\MyWork\Final Assignment\ProjectManager-master\ProjectManager.Persistance\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Public\MyWork\Final Assignment\ProjectManager-master\ProjectManager.Persistance\obj\Debug\ProjectManager.Persistence.csprojResolveAssemblyReference.cache
+C:\Users\Public\MyWork\Final Assignment\ProjectManager-master\ProjectManager.Persistance\obj\Debug\ProjectManager.Persistence.dll
+C:\Users\Public\MyWork\Final Assignment\ProjectManager-master\ProjectManager.Persistance\obj\Debug\ProjectManager.Persistence.pdb
